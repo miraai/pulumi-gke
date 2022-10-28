@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# gke
+gke_gcloud_auth_plugin_cache
+
 # C extensions
 *.so
 
