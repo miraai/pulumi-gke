@@ -1,2 +1,4 @@
 config:
   gcp:project: "382718325471"
+  pulumi-gke:database_password:
+    secure: AAABADMN/kFEzypLNQJa78nO5bHwGvHheJBXUiGReocA3fTcyJ1oh/Ntlvsyag==
