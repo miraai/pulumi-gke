@@ -5,7 +5,7 @@ __pycache__/
 
 # gke
 gke_gcloud_auth_plugin_cache
-
+kubeconfig.yaml
 # C extensions
 *.so
 
