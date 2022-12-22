@@ -1,5 +1,5 @@
 name: pulumi-gke
-description: A minimal GKE Python Pulumi setup
+description: A GKE Python Pulumi setup
 runtime:
     name: python
     options:
